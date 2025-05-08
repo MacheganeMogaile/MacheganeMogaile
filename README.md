@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MacheganeMogaile
 - 👀 I’m interested in Data Analytics
-- 🌱 I’m currently completing my Masters in Advanced Data Analytics at the University of Pretoria
+- 🌱 I’m currently completing my Masters in Economics at the University of Pretoria
 
 
 <!---
